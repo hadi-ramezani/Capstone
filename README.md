@@ -2,6 +2,10 @@
 ## Specializations
 ## Project: Capstone Proposal and Capstone Project
 
+**Obtaining the Data Set**
+The data set "properties_2016.csv" is very large and cannot be added to the Github repository. This data set can be downloaded from the Kaggle website using the link:
+https://www.kaggle.com/c/zillow-prize-1/data
+
 **Note**
 
 The Capstone is a two-staged project. The first is the proposal component, where you can receive valuable feedback about your project idea, design, and proposed solution. This must be completed prior to your implementation and submitting for the capstone project. 
