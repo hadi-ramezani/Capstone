@@ -3,8 +3,10 @@
 ## Project: Capstone Proposal and Capstone Project
 
 **Obtaining the Data Set**
-The data set "properties_2016.csv" is very large and cannot be added to the Github repository. This data set can be downloaded from the Kaggle website using the link:
+The data sets are very large and cannot be uploaded or be added to the Github repository. This data set can be downloaded from the Kaggle website using the link:
 https://www.kaggle.com/c/zillow-prize-1/data
+
+The references to the scripts in the "codes" folder and the functionality of each script are included in the report file.
 
 **Note**
 
